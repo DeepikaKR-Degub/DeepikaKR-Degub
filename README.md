@@ -1,5 +1,5 @@
-## Hii👋,**Im Deepika K R**
-    
+<h1 align = "center"> Hii👋,<b> Im Deepika K R</b> </h1>
+
 <p ALign ="center"> <b>A passionate Cloud Computing enthusiast from India.</b></p> 
 <p  Align = "center">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width ="600" </p>
@@ -9,11 +9,6 @@
 - 💬 Ask me about web development , Advanced Java
 - 📫 How to reach me: deepikakr2406@gmail.com 
 - ⚡ Fun fact:  Curious about how technology works.
-
-<h1 align="center">Hi 👋, I'm Deepika K R</h1>
-<h3 align="center">A passionate software Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepikakr-degub&label=Profile%20views&color=0e75b6&style=flat" alt="deepikakr-degub" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepikakr-degub" alt="deepikakr-degub" /></a> </p>
 
